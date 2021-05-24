@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Shreyasrana18" alt="Shreyasrana18" /> </p>
 
 - 🔭 I’m currently working on - my Portfolio website
-- 🌱 I’m currently learning - Django 
+- 🌱 I’m currently learning - Flutter
 - 👯 I’m looking to collaborate on - Flutter
 - 💬 Lets brainstorm together!
 - 📫 How to reach me: Portfolio site under construction, till then - ranashreyas4@gmail.com

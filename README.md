@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on <a href="https://github.com/Shreyasrana18/notefy/tree/main/App">Notefy App</a>
 - 🌱 I’m currently learning AppDev with Flutter
 - 👯 I’m looking to collaborate in App Developent
-- 🤔 I’m looking for help with Backend Developement
+- 🤔 I’m looking for help with DSA
 - 📫 How to reach me: ranashreyas4@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I like gaming
 
 
 ## Languages and Tools I use:

@@ -6,7 +6,7 @@
 
 
  ## About Me:
-- 🔭 I’m currently working on <a href="https://github.com/Shreyasrana18/notefy/tree/main/App">Notefy App</a>
+- 🔭 I’m currently working on <a href="https://github.com/Shreyasrana18/Amaterasu-test-bot">Discord bot</a>
 - 🌱 I’m currently learning AppDev 
 - 👯 I’m looking to collaborate in App Dev
 - 🤔 I’m looking for help with DSA
@@ -18,7 +18,7 @@
 ## Languages and Tools I use:
 
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
-<img src="https://img.icons8.com/color/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/dart.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/fluency/48/000000/github.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
+<img src="https://img.icons8.com/color/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/dart.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/fluency/48/000000/github.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/>
 
 ## Stats: 
 <img width="495px" src="https://github-readme-stats.vercel.app/api?username=Shreyasrana18&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&hide_title=false" /> 

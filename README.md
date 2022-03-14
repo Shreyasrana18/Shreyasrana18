@@ -7,12 +7,12 @@
 
  ## About Me:
 - 🔭 I’m currently working on <a href="https://github.com/Shreyasrana18/Anime-Stats-Bot">Anime Stats bot</a>
-- 🌱 I’m currently learning AppDev 
+- 🌱 I’m currently learning FLask
 - 👯 I’m looking to collaborate in App Dev,discord bots
 - 🤔 I’m looking for help with DSA
 - 📫 How to reach me: ranashreyas4@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like gaming
+- ⚡ Fun fact: I like Anime
 
 
 ## Languages and Tools I use:

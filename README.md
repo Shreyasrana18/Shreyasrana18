@@ -6,7 +6,7 @@
 
 
  ## About Me:
-- 🔭 I’m currently working on nothing
+- 🔭 I’m currently working on DSA
 - 🌱 I’m currently learning Flask
 - 👯 I’m looking to collaborate in App Dev,discord bots
 - 🤔 I’m looking for help with DSA

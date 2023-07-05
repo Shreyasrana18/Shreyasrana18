@@ -7,8 +7,8 @@
 
  ## About Me:
 - 🔭 I’m currently working on DSA
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate in App Dev,discord bots
+- 🌱 I’m currently learning Nodejs
+- 👯 I’m looking to collaborate in App Dev,discord bots,Backend
 - 🤔 I’m looking for help with DSA
 - 📫 How to reach me: ranashreyas4@gmail.com
 - 😄 Pronouns: He/Him

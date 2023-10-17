@@ -1,4 +1,4 @@
-<img align="left" src="https://media.tenor.com/VDZ7tUIWb6kAAAAC/bleach-mugetsu.gif" width="320" height="300"/>
+<img align="left" src="https://media.tenor.com/VDZ7tUIWb6kAAAAC/bleach-mugetsu.gif" width="260" height="260"/>
 
 
 ```csharp

@@ -1,26 +1,21 @@
-<h2 align = "center"> Hi there !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Shreyas Rana</h2>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Shreyasrana18" alt="Shreyasrana18" /> </p>
+<img align="left" src="https://media.tenor.com/VDZ7tUIWb6kAAAAC/bleach-mugetsu.gif" width="320" height="300"/>
 
 
-
-
-
- ## About Me:
-- 🔭 I’m currently working on DSA
-- 🌱 I’m currently learning Nodejs
-- 👯 I’m looking to collaborate in App Dev,discord bots,Backend
-- 🤔 I’m looking for help with DSA
-- 📫 How to reach me: ranashreyas4@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like Anime
-
-
-## Languages and Tools I use:
-
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
-<img src="https://img.icons8.com/color/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/dart.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/fluency/48/000000/github.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/python.png"/>
-
-## Stats: 
-<img width="495px" src="https://github-readme-stats.vercel.app/api?username=Shreyasrana18&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&hide_title=false" /> 
-<img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasrana18&layout=compact&theme=radical&hide_border=false&hide_title=true" />
-<img width ="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyasrana18&theme=radical"/>
+```csharp
+Shreyasrana18@github - Backend Developer
+-------------------------------------------
+Name: Shreyas Rana
+Age: 21
+OS: Windows 11
+Pronouns: He/Him
+Location: Mathura, India
+Languages: Python, C, C++, SQL, Flutter, Dart, Javascript
+Backend: Nodejs, Express, Flask
+Databases: MongoDB, mySQL
+Hobbies: Coding, Anime, Gaming
+```
+<br>
+<p align="left"><a href="https://github.com/Shreyasrana18" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/Shreyasrana4" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shreyas-rana-1807/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/shreyasrana18/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a></p>
